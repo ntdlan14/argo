@@ -44,7 +44,7 @@ jobs:
     
     - name: Commit the changes made
       run: | 
-        git config --global user.name 'devopshint'
-        git config --global user.email 'devopshint@gmail.com'
+        git config --global user.name 'ntdl14'
+        git config --global user.email 'lanntd14@gmail.com'
         git commit -am "updating image tag"
         git push
