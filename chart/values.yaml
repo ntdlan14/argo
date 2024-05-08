@@ -1,3 +1,7 @@
 image:
-  repository: ntdlan14/go-app
+<<<<<<< HEAD
+  repository: ntdl14/go-app
+=======
+  repository: ntdl14/go-app
+>>>>>>> c8d9531b305d5d7ef32d5c088115fbf93a8a6d22
   tag: f04b9b3f230b1e4c5eb2bc0da7b14f93809560ad
